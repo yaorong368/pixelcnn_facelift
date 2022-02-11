@@ -1,0 +1,3 @@
+training on: ['Addiction']
+Top best models:
+logs_add/train.500.pth	500.0000

@@ -1,0 +1,19 @@
+{
+  "resize": 128,
+  "batch_size":5,
+  "constrained": true,
+  "num_colors": 8,
+  "num_slices":1,
+  "filter_size": 5,
+  "filter_size_rs": 5,
+  "depth": 19,
+  "depth_rs": 29,
+  "num_filters_cond":72,
+  "num_filters_prior": 36,
+  "lr": 0.00005,
+  "epochs": 1000,
+  "weight_cond_logits_loss": 1.0,
+  "weight_prior_logits_loss": 0.0
+}
+
+
